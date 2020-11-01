@@ -16,5 +16,6 @@ As well, I added comments to the stylesheet used for the website, to make it mor
 ## Code of Conduct
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 ## License
-&copy; 2019 Horiseon Social Solution Services, Inc.
+&copy; 2019 Horiseon Social Solution Services, Inc.  
+
 Licensed under the [MIT](LICENSE.txt) license.
